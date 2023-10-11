@@ -1,6 +1,6 @@
-# google_auth
+# Fitness App
 
-A new Flutter project.
+A Fitness App with firebase integration for Email and Password verification.
 
 ## Getting Started
 
