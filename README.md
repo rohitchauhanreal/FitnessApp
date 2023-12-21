@@ -2,6 +2,16 @@
 
 A Fitness App with firebase integration for Email and Password verification.
 
+## Features:-
+- Sign Up screen
+- Interactive and user Friendly UI
+- Youtube Package
+- Home page with Scedule
+- Explore Page
+- Account Page
+- Sign Out
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
